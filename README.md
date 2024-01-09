@@ -22,6 +22,6 @@ This will facilitate the management's ability to draw meaningful and data-inform
 
 ## Tools Utilized
 
-MySQL
-Power BI
-PowerPoint
+- MySQL
+- Power BI
+- PowerPoint
